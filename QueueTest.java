@@ -1,4 +1,4 @@
-
+//레이저와 
 public class QueueTest {
 	public int solution(String arg) {
 		int answer=0;
